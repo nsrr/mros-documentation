@@ -1,4 +1,4 @@
-mros-documentation
+MrOS Documentation
 ==================
 
-MrOS documentation for sleepdata.org
+Version controlled repository for MrOS documentation on [sleepdata.org](http://sleepdata.org/datasets/mros)
