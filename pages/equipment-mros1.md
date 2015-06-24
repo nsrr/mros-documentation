@@ -1,6 +1,6 @@
 ## Montage and Sampling Rate Information [on MrOS1]
 
-The settings below represent the standards set at the beginning of the project. There may be a small proportion of studies and signals that do not match these standards exactly. Please review the settings at the individual sleep study level as you proceed with any analyses.
+The settings below represent the standards set at the beginning of the project. There may be studies and signals that do not match these standards. Please review the settings at the individual sleep study level as you proceed with any analyses.
 
 |   Channel    |   Channel Derivation  |  Sampling Rate (Hz)  |  Hardware Filters (Hz)  |         Sensor Type          |
 |:------------:|:---------------------:|:--------------------:|:-----------------------:|:----------------------------:|
