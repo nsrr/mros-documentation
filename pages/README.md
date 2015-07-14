@@ -10,6 +10,11 @@ When citing this dataset please use:
 
 > Redline, S., et al. "MrOS" National Sleep Research Resource. Web. http://sleepdata.org/datasets/mros.
 
+## Protocols and Manuals
+
+- [MrOS1 Manual of Procedures](:files_path:/documentation?f=MrOS_Visit1_PSG_Manual_of_Procedures.pdf)
+- [MrOS2 Manual of Procedures](:files_path:/documentation?f=MrOS_Visit2_PSG_Manual_of_Procedures.pdf)
+
 ## Equipment
 - [Montage and Sampling Rate Information on MrOS1](:pages_path:/equipment-mros1.md)
 - [Montage and Sampling Rate Information on MrOS2](:pages_path:/equipment-mros2.md)
