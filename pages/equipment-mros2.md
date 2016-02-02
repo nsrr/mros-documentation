@@ -11,8 +11,8 @@ The settings below represent the standards set at the beginning of the project. 
 | C4           | C4/M1                 |  256                 |  High pass 0.15         | Gold cup electrode           |
 | M1           |                       |  256                 |  High pass 0.15         | Gold cup electrode           |
 | M2           |                       |  256                 |  High pass 0.15         | Gold cup electrode           |
-| E2           | E1/M1                 |  256                 |  High pass 0.15         | Gold cup electrode           |
-| E1           | E2/M2                 |  256                 |  High pass 0.15         | Gold cup electrode           |
+| E2           | E2/M1                 |  256                 |  High pass 0.15         | Gold cup electrode           |
+| E1           | E1/M2                 |  256                 |  High pass 0.15         | Gold cup electrode           |
 | ECG L        | ECG L/ECG R           |  512                 |  High pass 0.15         | Ag/AgCl patch                |
 | ECG R        | ECG L/ECG R           |  512                 |  High pass 0.15         | Ag/AgCl patch                |
 | L Chin       | L Chin/R Chin         |  256                 |  High pass 0.15         | Gold cup electrode           |
