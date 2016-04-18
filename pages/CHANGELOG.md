@@ -1,3 +1,7 @@
+### April 18, 2016
+
+- Update citation for users of the dataset
+
 ### June 24, 2015
 
 - Tweak disclaimer on montage / sampling rate pages
