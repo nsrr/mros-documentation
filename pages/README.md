@@ -9,6 +9,8 @@ For more information on the MrOS cohort, [contact the San Francisco Coordinating
 When citing this dataset please use:
 
 1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5*, 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
+2. [Orwoll, E., Blank, J. B., Barrett-Connor, E., Cauley, J., Cummings, S., Ensrud, K., Lewis, C., Cawthon, P. M., Marcus, R., Marshall, L. M., McGowan, J., Phipps, K., Sherman, S., Stefanick, M. L., & Stone, K. (2005). Design and baseline characteristics of the osteoporotic fractures in men (MrOS) study--a large observational study of the determinants of fracture in older men. *Contemporary clinical trials, 5,* 569–585.](http://www.ncbi.nlm.nih.gov/pubmed/16084776)
+3. [Blackwell, T., Yaffe, K., Ancoli-Israel, S., Redline, S., Ensrud, K. E., Stefanick, M. L., Laffan, A., Stone, K. L., & , . (2011). Associations between sleep architecture and sleep-disordered breathing and cognition in older community-dwelling men: the Osteoporotic Fractures in Men Sleep Study. *Journal of the American Geriatrics Society, 12,* 2217–2225.](http://www.ncbi.nlm.nih.gov/pubmed/22188071)
 
 ## Protocols and Manuals
 
@@ -22,7 +24,3 @@ When citing this dataset please use:
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
-
-## Publication Links
-
-- [Design and baseline characteristics of the osteoporotic fractures in men (MrOS) study--a large observational study of the determinants of fracture in older men.](http://www.ncbi.nlm.nih.gov/pubmed/16084776)
