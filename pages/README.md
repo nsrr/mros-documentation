@@ -16,8 +16,8 @@ For more information on the MrOS cohort, [contact the San Francisco Coordinating
 - [MrOS Sleep Visit 2 Manual of Procedures](:files_path:/documentation?f=MrOS_Visit2_PSG_Manual_of_Procedures.pdf)
 
 ## Equipment
-- [Montage and Sampling Rate Information on MrOS1](:pages_path:/equipment-mros1.md)
-- [Montage and Sampling Rate Information on MrOS2](:pages_path:/equipment-mros2.md)
+- [Montage and Sampling Rate Information for MrOS Sleep Visit 1](:pages_path:/equipment-mros1.md)
+- [Montage and Sampling Rate Information for MrOS Sleep Visit 2](:pages_path:/equipment-mros2.md)
 
 ## EEG Spectral Analysis
 
@@ -25,7 +25,7 @@ As part of the NSRR's effort to explore the MrOS data in more detail, EEG spectr
 
 ## HRV Analysis
 
-As part of Ancillary Study #108, researchers at Case Western Reserve University performed heart rate variability analysis on MrOS Sleep Visit 1 data. [Read more about the methods](:files_path:/documentation?f=MrOS_Visit1_HVS_Dataset_Information.pdf) and [browse the result variables](https://www.sleepdata.org/datasets/mros/variables?folder=HRV+Analysis)..
+As part of Ancillary Study #108, researchers at Case Western Reserve University performed heart rate variability analysis on MrOS Sleep Visit 1 data. [Read more about the methods](:files_path:/documentation?f=MrOS_Visit1_HVS_Dataset_Information.pdf) and [browse the result variables](https://www.sleepdata.org/datasets/mros/variables?folder=HRV+Analysis).
 
 ## Recent Changes
 
