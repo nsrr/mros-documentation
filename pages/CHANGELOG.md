@@ -1,3 +1,8 @@
+### March 21, 2017
+
+- Dataset 0.3.0 released
+- Information added on EEG spectral and heart rate variability analysis data
+
 ### February 13, 2017
 
 - Add dataset and polysomnography introduction pages
