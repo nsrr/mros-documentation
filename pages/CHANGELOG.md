@@ -1,3 +1,7 @@
+### June 9, 2017
+
+- Add XML annotation notes to PSG introduction
+
 ### March 21, 2017
 
 - Dataset 0.3.0 released
