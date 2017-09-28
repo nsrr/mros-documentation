@@ -2,7 +2,7 @@
 
 MrOS is an ancillary study of the parent Osteoporotic Fractures in Men Study. Between 2000 and 2002, 5,994 community-dwelling men 65 years or older were enrolled at 6 clinical centers in a baseline examination. Between December 2003 and March 2005, 3,135 of these participants were recruited to the Sleep Study when they underwent full unattended polysomnography and 3 to 5-day actigraphy studies. The objectives of the Sleep Study are to understand the relationship between sleep disorders and falls, fractures, mortality, and vascular disease.
 
-For more information on the MrOS cohort, [contact the San Francisco Coordinating Center](http://coordinatingcenter.ucsf.edu/research/studies.php).
+[MrOS Online](https://mrosdata.sfcc-cpmc.net/) is another source of publicly available MrOS study data. For more information on the MrOS cohort, [contact the San Francisco Coordinating Center](http://coordinatingcenter.ucsf.edu/research/studies.php).
 
 ## Data overview
 
