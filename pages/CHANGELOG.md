@@ -1,3 +1,7 @@
+### October 25, 2017
+
+- Add note to README about data availability
+
 ### June 9, 2017
 
 - Add XML annotation notes to PSG introduction
