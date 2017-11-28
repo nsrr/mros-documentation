@@ -17,7 +17,7 @@ The settings below represent the standards set at the beginning of the project. 
 | ECG R        | ECG L/ECG R           |  512                 |  High pass 0.15         | Ag/AgCl patch                |
 | L Chin       | L Chin/R Chin         |  256                 |  High pass 0.15         | Gold cup electrode           |
 | R Chin       | L Chin/R Chin         |  256                 |  High pass 0.15         | Gold cup electrode           |
-| Airflow      |                       |   16                 |  High pass 0.15         | ProTech Termistor            |
+| Airflow      |                       |   16                 |  High pass 0.15         | ProTech Thermistor           |
 | SUM          |                       |   16                 |  High pass 0.15         | Compumedics Summit IP RIP    |
 | Thoracic     |                       |   16                 |  High pass 0.15         | Compumedics Summit IP RIP    |
 | Abdominal    |                       |   16                 |  High pass 0.15         | Compumedics Summit IP RIP    |
