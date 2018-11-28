@@ -23,6 +23,6 @@ The settings below represent the standards set at the beginning of the project. 
 | ABD          |                       |   32                 |  High pass 0.15         | Compumedics Summit IP RIP    |
 | STAT         |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor |
 | HR           |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor |
-| SpO2         |                       |    1                 |                         | Nonin XPOD 3011. 8000 snesor |
+| SpO2         |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor |
 | Cannula Flow |                       |   64                 |                         | Nasal cannula                |
 | DHR          |                       |                      |                         | Derived from EKG             |
