@@ -21,9 +21,16 @@ NSRR XML files can be overlaid onto EDF signal files using the [EDF Viewer tool]
 
 ## Known issues
 
-None.
+- `visit`
+  - Subject aa2180 does not have XML annotation files. Scoring and staging data could not be reliably exported. The EDF is intact.
+  - Subject aa0425 does not have scoring annotations in the XML annoation files. The staging information appears correct, though the other scoring data was lost due to past file corruption.
 
 ## History / changelog
+
+*December 2018*
+- `visit1`
+  - aa2180 XML annotation files removed (unreliable data)
+  - aa2618, aa2931 XML annotation files re-exported and replaced (fix issues with past file corruption)
 
 *February 2017*
 - `visit2`

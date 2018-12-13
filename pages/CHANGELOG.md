@@ -1,3 +1,7 @@
+### December 12, 2018
+
+- Made some updates to underlying PSG data, noted on introduction
+
 ### July 30, 2018
 
 - Add blurb about forms to dataset introduction
