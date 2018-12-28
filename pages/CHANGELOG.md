@@ -1,3 +1,7 @@
+### December 28, 2018
+
+- Updated note about hypopnea tags on PSG introduction
+
 ### December 12, 2018
 
 - Made some updates to underlying PSG data, noted on introduction
