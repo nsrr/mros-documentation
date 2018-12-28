@@ -29,7 +29,7 @@ Additional criteria can be applied to limit events based on associated desaturat
 
 ## Known issues
 
-- `visit`
+- `visit1`
   - Subject aa2180 does not have XML annotation files. Scoring and staging data could not be reliably exported. The EDF is intact.
   - Subject aa0425 does not have scoring annotations in the XML annoation files. The staging information appears correct, though the other scoring data was lost due to past file corruption.
 
