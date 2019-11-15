@@ -19,10 +19,6 @@ The MrOS dataset on NSRR is limited in scope (e.g. no actigraphy raw data or res
 - [Montage and Sampling Rate Information for MrOS Sleep Visit 1](:pages_path:/equipment-mros1.md)
 - [Montage and Sampling Rate Information for MrOS Sleep Visit 2](:pages_path:/equipment-mros2.md)
 
-## EEG Spectral Analysis
-
-As part of the NSRR's effort to explore the MrOS data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/mros/variables?folder=Spectral+Analysis).
-
 ## HRV Analysis
 
 As part of Ancillary Study #108, researchers at Case Western Reserve University performed heart rate variability analysis on MrOS Sleep Visit 1 data. [Read more about the methods](:files_path:/documentation?f=MrOS_Visit1_HVS_Dataset_Information.pdf) and [browse the result variables](https://www.sleepdata.org/datasets/mros/variables?folder=HRV+Analysis).
