@@ -17,7 +17,7 @@ The settings below represent the standards set at the beginning of the project. 
 | ECG2               | ECG R        | ECG R        | Fpz     | 512                | High pass 0.15        | Ag/AgCl patch                |
 | Left Chin EMG      | L Chin       | L Chin       | Fpz     | 256                | High pass 0.15        | Gold cup electrode           |
 | Right Chin EMG     | R Chin       | R Chin       | Fpz     | 256                | High pass 0.15        | Gold cup electrode           |
-| Thermistor         | Airflow      | Airflow      | -       | 16                 | High pass 0.15        | ProTech Thermistor           |
+| Airflow            | Airflow      | Airflow      | -       | 16                 | High pass 0.15        | ProTech Thermistor           |
 | Sum                | SUM          | SUM          | -       | 16                 | High pass 0.15        | Compumedics Summit IP RIP    |
 | Thorax             | Thoracic     | Thoracic     | -       | 16                 | High pass 0.15        | Compumedics Summit IP RIP    |
 | Abdomen            | Abdominal    | Abdominal    | -       | 16                 | High pass 0.15        | Compumedics Summit IP RIP    |
