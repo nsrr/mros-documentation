@@ -4,6 +4,18 @@ MrOS is an ancillary study of the parent Osteoporotic Fractures in Men Study. Be
 
 The MrOS dataset on NSRR is limited in scope (e.g. no actigraphy raw data or results are included), with its primary focus being polysomnography (PSG) data. [MrOS Online](https://mrosdata.sfcc-cpmc.net/) is a publicly available resource that contains additional sleep variables and data from other MrOS research visits. For more information on the MrOS cohort, [contact the San Francisco Coordinating Center](http://coordinatingcenter.ucsf.edu/research/studies.php).
 
+## Citation and acknowledgement
+
+When using this dataset, please cite the following:
+
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> [Blackwell T, Yaffe K, Ancoli-Israel S, Redline S, Ensrud KE, Stefanick ML, Laffan A, Stone KL; Osteoporotic Fractures in Men Study Group. Associations between sleep architecture and sleep-disordered breathing and cognition in older community-dwelling men: the Osteoporotic Fractures in Men Sleep Study. J Am Geriatr Soc. 2011 Dec;59(12):2217-25. doi: 10.1111/j.1532-5415.2011.03731.x. Epub 2011 Nov 7. PMID: 22188071; PMCID: PMC3245643.](https://pubmed.ncbi.nlm.nih.gov/22188071/)
+
+Please include the following text in the Acknowledgements:
+
+> The National Heart, Lung, and Blood Institute provided funding for the ancillary MrOS Sleep Study, "Outcomes of Sleep Disorders in Older Men," under the following grant numbers: R01 HL071194, R01 HL070848, R01 HL070847, R01 HL070842, R01 HL070841, R01 HL070837, R01 HL070838, and R01 HL070839. The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+
 ## Data overview
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from MrOS Sleep Visit 1 and Visit 2.
@@ -26,13 +38,3 @@ As part of Ancillary Study #108, researchers at Case Western Reserve University 
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
-
-## Citation
-
-When citing this dataset please use:
-
-1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
-2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-3. Blank JB, Cawthon PM, Carrion-Petersen ML, Harper L, Johnson JP, Mitson E, Delay RR. [**Overview of recruitment for the osteoporotic fractures in men study (MrOS).**](http://www.ncbi.nlm.nih.gov/pubmed/16085466) Contemp Clin Trials. 2005 Oct;26(5):557-68. PubMed PMID: 16085466.
-4. Orwoll E, Blank JB, Barrett-Connor E, Cauley J, Cummings S, Ensrud K, Lewis C, Cawthon PM, Marcus R, Marshall LM, McGowan J, Phipps K, Sherman S, Stefanick ML, Stone K. [**Design and baseline characteristics of the osteoporotic fractures in men (MrOS) study--a large observational study of the determinants of fracture in older men.**](http://www.ncbi.nlm.nih.gov/pubmed/16084776) Contemp Clin Trials. 2005 Oct;26(5):569-85. PubMed PMID: 16084776.
-5. Blackwell T, Yaffe K, Ancoli-Israel S, Redline S, Ensrud KE, Stefanick ML, Laffan A, Stone KL; Osteoporotic Fractures in Men Study Group. [**Associations between sleep architecture and sleep-disordered breathing and cognition in older community-dwelling men: the Osteoporotic Fractures in Men Sleep Study.**](http://www.ncbi.nlm.nih.gov/pubmed/22188071) J Am Geriatr Soc. 2011 Dec;59(12):2217-25. doi: 10.1111/j.1532-5415.2011.03731.x. Epub 2011 Nov 7. PubMed PMID: 22188071; PubMed Central PMCID: PMC3245643.
