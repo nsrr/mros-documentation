@@ -13,7 +13,7 @@ The core dataset is broken down into two (2) files that correspond to the MrOS S
 
 ## Data collection forms
 
-The NSRR provides [original data collection forms as PDFs](:files_path:/forms). Many [variables link to these forms](:datasets_path:/homepap/variables) to give users a better idea about the origins of the underlying data.
+The NSRR provides [original data collection forms as PDFs](:files_path:/forms). Many [variables link to these forms](:datasets_path:/mros/variables) to give users a better idea about the origins of the underlying data.
 
 The forms are included here for historical purposes only and are not intended for use in prospective studies. If you wish to use these forms, please check existing copyrights and regulations beforehand.
 
