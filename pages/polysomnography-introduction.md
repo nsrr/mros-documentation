@@ -31,7 +31,7 @@ Additional criteria can be applied to limit events based on associated desaturat
 
 - `visit1`
   - Subject aa2180 does not have XML annotation files. Scoring and staging data could not be reliably exported. The EDF is intact.
-  - Subject aa0425 does not have scoring annotations in the XML annotation files. The staging information appears correct, though the other scoring data was lost due to past file corruption.
+  - Many subjects (aa0236, aa0425, aa0461, aa1477, aa2159, aa2339, aa2608, aa3354, aa3386, aa4712, aa4858, aa4860) do not have scoring annotations in the XML annotation files. The staging information appears correct, though other scoring data were lost due to past file corruption.
   - Raw data and annotations for four subjects (aa1103, aa1578, aa2660, aa5781) are not available due to prior data loss.
 
 ## History / changelog
