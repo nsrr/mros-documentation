@@ -37,6 +37,10 @@ Additional criteria can be applied to limit events based on associated desaturat
 
 ## History / changelog
 
+*March 2025*
+- `visit1`
+  - aa1510, aa1876, aa3545 EDF files and Profusion XML annotation files replaced (inadvertently exported originally as duplicates of other recordings; new exports created; NSRR XML annotation files removed)
+
 *April 2022*
 - `visit1`
   - aa2159 and aa4156 XML annotation files removed (unreliable data)
