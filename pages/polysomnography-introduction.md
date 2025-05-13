@@ -34,6 +34,8 @@ Additional criteria can be applied to limit events based on associated desaturat
   - Three subjects (aa2159, aa2180, aa4156) do not have XML annotation files. Scoring and staging data could not be reliably exported. The EDFs are intact.
   - Many subjects (aa0236, aa0425, aa0461, aa1477, aa2123, aa2339, aa2608, aa3354, aa3386, aa4712, aa4858, aa4860) do not have scoring annotations in the XML annotation files. The staging information appears correct, though other scoring data were lost due to past file corruption.
   - Many subjects (aa2033, aa3905, aa4225, aa4398, aa4928, aa5622, aa5660, aa5781) have incorrect staging information in the XML annotation files. The event scoring data appears correct, though correct staging was lost due to past file corruption.
+- `visit2`
+  - Leg movement data are not available due to an amplifier issue that was identified after data collection that rendered the leg movement data unreliable. The leg movement signal and annotation data should not be used in analysis.
 
 ## History / changelog
 
